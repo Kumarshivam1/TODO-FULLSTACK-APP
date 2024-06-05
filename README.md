@@ -1,4 +1,4 @@
-##Todo App
+Todo App
 
 This project contains a single TODO application which has following features:-
 -Anyone can create a todo
